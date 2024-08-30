@@ -4,7 +4,7 @@ This repository contains files related to a sort of blog post website where the 
 Inspired by friends who push me to be a better version of myself.
 
 # Technologies
-Uses Jekyll to [generate](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) a static website using the Bundler tool.
+Uses [Jekyll](https://jekyllrb.com/) to generate a static website using the Bundler tool.
 Initial hosting [issue](https://talk.jekyllrb.com/t/newbie-problems-with-wdm-errors/9233) related to the installation of wdm which was later resolved after commenting out a single line from one of the files in the `Jekyll` directory.
 
 # Useful links
